@@ -1,6 +1,6 @@
 export const CONTACT = {
   phone: "6303110439",
-  whatsapp: "6303110439",
+  whatsapp: "916303110439",
   email: "support@washcarepro.com",
   location: "Vijayawada, Andhra Pradesh",
   serviceCharge: "₹350/-"
