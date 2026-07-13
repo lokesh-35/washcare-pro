@@ -1,0 +1,6 @@
+{
+  "name": "WashCare Pro - Vijayawada's Repair",
+  "description": "Expert washing machine and refrigerator repair services in Vijayawada with genuine parts and 30-day warranty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
